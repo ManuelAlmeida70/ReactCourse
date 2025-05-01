@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "./header.css";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  background-color: #ddd;
+}
+
+.btnDefault{
+  display: flex;
+  background-color: red;
+  padding: 10px;
+  border-radius: 10px;
+}
