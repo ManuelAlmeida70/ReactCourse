@@ -34,7 +34,7 @@ const products = [
 	  disponible: false
 	},
 	{
-	  product: "Microfone",
+	  product: "Microfone edge",
 	  value: 18000,
 	  descont: 100,
 	  disponible: true
